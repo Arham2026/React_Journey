@@ -7,9 +7,6 @@ export default {
   theme: {
     extend: {},
   },
-  // enables darkmode with the class
-  // It tells tailwind to apply the dark class in the classes.
-  darkMode:'class',
   plugins: [],
 }
 
